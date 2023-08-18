@@ -8,3 +8,6 @@ git add . (for allow git to track my all file and folders)
 git commit -m 'any message'(for track what changing occur in file or folders, it is save point)
 git log(waht commit made with time)
 git checkout <file_name> (for undo changes)
+git branch -a (for check wether branch name is main or master)
+if master then use following command
+git branch -m master main
