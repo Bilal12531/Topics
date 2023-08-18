@@ -1,0 +1,7 @@
+mkdir (for make diratory)
+ls (for check what in directory)
+code file_name or touch file_name (for create fie) 
+ls -a (for check all in folder)
+git status (for check that, is every file track by git or not )
+git add text1.txt (for allow git to track my file)
+git add . (for alloe git to track my all file and folders)
