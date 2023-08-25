@@ -11,3 +11,5 @@ git checkout <file_name> (for undo changes)
 git branch -a (for check wether branch name is main or master)
 if master then use following command
 git branch -m master main
+git push origin main (for push new files)
+git rm --cached -r . (for remove all file from git)
