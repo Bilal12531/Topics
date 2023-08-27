@@ -13,3 +13,6 @@ if master then use following command
 git branch -m master main
 git push origin main (for push new files)
 git rm --cached -r . (for remove all file from git)
+git branch anyname (it is used when we create new feature, at the end we will merge it)
+git branch (for check in which branch we are)
+git checkout AnyBranchName(for move in new branch)
